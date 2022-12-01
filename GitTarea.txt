@@ -27,4 +27,7 @@ git checkout branch3
 hago cambios y los subo
 git add .
 git commit -m "Subo cambios en rama3"
-git push
+git push 
+da mensaje pq no está configurado automatico para subir nuevos branch, me dice lo que tengo que 
+ejecutar 
+git push --set-upstream origin branch3

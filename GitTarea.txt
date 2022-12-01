@@ -1,0 +1,19 @@
+1.- git clone
+2.- git branch -a 
+(vemos locales y remotas)
+
+https://www.delftstack.com/es/howto/git/git-switch-branch/
+
+
+3.- git checkout rama
+(ya tengo la rama en local y estoy situado en ella)
+4.- modifico fichero
+5.- subo los cambios: add, commit (configurar email y usuario) y push
+
+vuelvo a github, compruebo lo que tengo en una rama y en otra
+
+6.- creo otra rama: branch2 a partir de branch1
+7.- quiero que se actualice desde mi local: git remote update origin --prune
+8.- ya me sale listada al hacer git branch -a
+9.- git checkout rama2
+10.- hago algún cambio y lo subo a rama2

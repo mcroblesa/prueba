@@ -17,3 +17,14 @@ vuelvo a github, compruebo lo que tengo en una rama y en otra
 8.- ya me sale listada al hacer git branch -a
 9.- git checkout rama2
 10.- hago algún cambio y lo subo a rama2
+
+
+Si he creado la rama por linea de comandos:
+git branch branch3
+(la crea a partir de la que tenia)
+me situo en la rama
+git checkout branch3
+hago cambios y los subo
+git add .
+git commit -m "Subo cambios en rama3"
+git push

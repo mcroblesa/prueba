@@ -41,3 +41,4 @@ git pull (nos actualizamos por si las moscas, siempre antes de un merge)
 git merge branch3
 
 ya tengo en la master lo ultimo que hice, ahora compruebo y hago un ultimo cambio y commit
+cambio en linux

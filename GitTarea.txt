@@ -42,3 +42,8 @@ git merge branch3
 
 ya tengo en la master lo ultimo que hice, ahora compruebo y hago un ultimo cambio y commit
 cambio en linux
+
+token
+
+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
+
